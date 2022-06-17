@@ -2,7 +2,6 @@
 ## I am a Developer and here are the things about me!
 
 - 🔭 I’m currently working on Open source projects
-- 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with any experienced developers
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate with other developer
