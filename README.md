@@ -31,7 +31,7 @@ I am a Developer and here are the things about me!
 
 <p align="center" style="display:flex; justify-content: space-between;">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=SokunHeng&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false">
-    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=SokunHeng&theme=tokyonight&hide_border=true">
+    <!--  <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=SokunHeng&theme=tokyonight&hide_border=true"> -->
 </p>
 
 
