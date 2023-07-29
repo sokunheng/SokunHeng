@@ -37,5 +37,6 @@ I am a Developer and here are the things about me!
 
 <h2 align="center"> </h2>
 
-![Profile views](https://gpvc.arturio.dev/SokunHeng) 
+![Profile views](https://komarev.com/ghpvc/?username=SokunHeng)
+<!-- ![Profile views](https://gpvc.arturio.dev/SokunHeng) -->
 <!-- [![](https://visitcount.itsvg.in/api?id=SokunHeng&icon=5&color=1)](https://visitcount.itsvg.in) -->
