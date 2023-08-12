@@ -5,7 +5,7 @@ I am a Developer and here are the things about me!
 </p>
 
 <p align="center">
-👨‍💻 I am presently working on open source projects, 👀 seeking help from experienced developers, 💬 open to any questions, 👥 interested in collaborating with other developers, and ⚡ enjoys gaming, reading, and coding!
+👨‍💻 I am presently working on open source projects, 👀 seeking help from experienced developers, 💬 open to any questions, 👥 interested in collaborating with other developers, and ⚡ enjoys gaming, workout, reading, and coding!
 </p>
 
 <h2 align="center">Skills </h2>
@@ -25,8 +25,9 @@ I am a Developer and here are the things about me!
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="36"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" /></a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="42" height="42"/> </a>
-  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="ios" width="43" height="43"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="42" height="42"/> </a>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="ios" width="43" height="43"/> </a>
  </p> 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SokunHeng&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false) -->
