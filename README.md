@@ -37,7 +37,7 @@
   </div>
 </div>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h2></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SokunHeng&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
