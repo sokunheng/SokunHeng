@@ -17,6 +17,7 @@
       <li>I’m currently working towards making a big impact 💼</li>
       <li>Ask me about anything tech related, I am happy to help 💬</li>
       <li>Interested in collaborating with other developers 🤝</li>
+      <li>I have a knack for problem-solving and enjoy tackling challenges head-on 💡.</li>
       <li>I enjoy gaming 🎮, workout 💪, reading 📚, and coding 💻!</li>
     </ul>
   </div>
