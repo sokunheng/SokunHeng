@@ -39,6 +39,8 @@
 
    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=CI/CD&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=420&bg=%25230B0E14&titleColor=%231c9eff&line1=git%2Cgit%2CF05032%3Bgithub%2Cgithub%2C181717%3Bgitlab%2Cgitlab%2CFC6D26%3B&line2=apachemaven%2Cmaven%2CC71A36%3Bgradle%2Cgradle%2C02303A%3Bdocker%2Cdocker%2Cauto%3B&line3=githubactions%2Cactions%2C2088FF%3Bselenium%2Cselenium%2C43B02A%3Bkubernetes%2Ckubernetes%2C326CE5%3B" alt="Design" />
 
+   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Others&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=420&bg=%25230B0E14&titleColor=%231c9eff&line1=postman%2Cpostman%2CFF6C37%3Bvisualstudiocode%2Cvscode%2C007ACC%3Bkalilinux%2Ckalilinux%2C557C94%3B&line2=intellijidea%2Cintellij%2Cauto%3Bgnubash%2Cbash%2Cauto%3Brobotframework%2CAgent%2Cauto%3B" alt="Design" />
+
   </div>
 </div>
 
