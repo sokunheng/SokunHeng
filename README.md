@@ -50,7 +50,6 @@
 
 <div>
 
-  <img src="https://img.shields.io/github/last-commit/sokunheng/sokunheng/main" alt="GitHub last commit (branch)">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SokunHeng">
   <img alt="Discord" src="https://img.shields.io/discord/578930169251758080?logo=discord">
 
