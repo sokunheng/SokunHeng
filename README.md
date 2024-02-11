@@ -50,11 +50,10 @@
 
 <div>
 
-  <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/502823161046237194?simple=true) -->
-  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sokunheng/sokunheng/main)
-  ![Profile views](https://komarev.com/ghpvc/?username=SokunHeng)
-  <!-- ![Profile views](https://gpvc.arturio.dev/SokunHeng) -->
-  <!-- [![](https://visitcount.itsvg.in/api?id=SokunHeng&icon=5&color=1)](https://visitcount.itsvg.in) -->
+  <img src="https://img.shields.io/github/last-commit/sokunheng/sokunheng/main" alt="GitHub last commit (branch)">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SokunHeng">
+  <img alt="Discord" src="https://img.shields.io/discord/578930169251758080?logo=discord">
+
   <!-- <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   </p>  
