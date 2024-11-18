@@ -9,9 +9,9 @@
   <h2 align="left">About Me </h2>
 
   <div align="left">
-<!--     <a href="https://discord.com/users/502823161046237194">
+    <a href="https://discord.com/users/502823161046237194">
       <img  align="right" src="https://lanyard.kyrie25.me/api/502823161046237194?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" height="150">
-    </a> -->
+    </a>
     <ul >
       <li>I'm passionate about learning new things 🔍</li>
       <li>I’m currently working towards making a big impact 💼</li>
