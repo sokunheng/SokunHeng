@@ -10,7 +10,7 @@
 
   <div align="left">
     <a href="https://discord.com/users/502823161046237194">
-      <img  align="right" src="https://lanyard.kyrie25.me/api/502823161046237194?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" height="150">
+      <img  align="right" src="https://lanyard.kyrie25.dev/api/502823161046237194??useDisplayName=true&animationDuration=3s&imgBorderRadius=15px&imgStyle=round&waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" height="150">
     </a>
     <ul >
       <li>I'm passionate about learning new things 🔍</li>
